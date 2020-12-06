@@ -44,7 +44,7 @@ folder_name 笔记本名
 category_id 标签id
 user_id 用户id
 ```
-code 验证吗表
+code 验证码表
 ```
 code_id 验证码id
 mobile 手机号
